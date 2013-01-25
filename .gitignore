@@ -10,3 +10,5 @@ export-test-*
 *.iws
 /.idea
 /.settings
+/.classpath
+/.project
